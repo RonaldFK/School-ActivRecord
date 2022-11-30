@@ -1,0 +1,9 @@
+node_modules/
+.env
+promos.json
+students.json
+app/database/initData.sql
+app/database/seedingDB.sql
+test.js
+app/data/old_dataMapper.js
+app/data/old_dataOclock.js
